@@ -1,2 +1,2 @@
 # paginaLogin
-Página de Login para testar conhecimento em HTML, CSS e Javascript
+Página de Login para testar conhecimentos em HTML, CSS e Javascript
